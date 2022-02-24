@@ -8,7 +8,7 @@ Press a button get a random dog photo
 
 ## Getting Started
 
-Click [here](https://charlehs.github.io/Counter/) for live site.
+Click [here](https://charlehs.github.io/RandomDogPhoto/) for live site.
 
 ## Version History
 
