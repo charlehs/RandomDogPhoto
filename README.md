@@ -16,5 +16,5 @@ Click [here](https://charlehs.github.io/RandomDogPhoto/) for live site.
     * tktktktkt
     * tktktktkt
 * 0.1
-    * 21/2/22 Initial Release
+    * 24/2/22 Initial Release
     * Basic functionality added
