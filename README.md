@@ -13,8 +13,8 @@ Click [here](https://charlehs.github.io/RandomDogPhoto/) for live site.
 ## Version History
 
 * 0.2
-    * tktktktkt
-    * tktktktkt
+    * 25/2/22
+    * Added basic CSS (still needs work)
 * 0.1
     * 24/2/22 Initial Release
     * Basic functionality added
