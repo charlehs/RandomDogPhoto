@@ -1,4 +1,4 @@
-# Counter App
+# Random Dog Photo
 
 Part of my 100 days of coding challenge
 
