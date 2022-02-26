@@ -12,6 +12,9 @@ Click [here](https://charlehs.github.io/RandomDogPhoto/) for live site.
 
 ## Version History
 
+* 0.3
+    * 26/2/22
+    * Played around with CSS more, added a google font
 * 0.2
     * 25/2/22
     * Added basic CSS (still needs work)
